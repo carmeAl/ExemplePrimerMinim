@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7e2b520-06f9-44cf-a649-38a92bce03a7" name="Changes" comment="esta hecho el product, me he quedado en LP">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ProductManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ProductManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProductManagerImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProductManagerImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +52,67 @@
       <recent name="I:\Mi unidad\2022-2023-1\DSA\ExemplePrimerMinim\src\test\java" />
       <recent name="I:\Mi unidad\2022-2023-1\DSA\ExemplePrimerMinim\src\main\java\org\example" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProductManagerImplTest.ordersByUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExemplePrimerMinim" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductManagerImplTest" />
+      <option name="METHOD_NAME" value="ordersByUserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductManagerImplTest.processOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExemplePrimerMinim" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductManagerImplTest" />
+      <option name="METHOD_NAME" value="processOrderTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductManagerImplTest.productsSortByNumSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExemplePrimerMinim" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductManagerImplTest" />
+      <option name="METHOD_NAME" value="productsSortByNumSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductManagerImplTest.productsSortByPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExemplePrimerMinim" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductManagerImplTest" />
+      <option name="METHOD_NAME" value="productsSortByPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductManagerImplTest.testAddOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExemplePrimerMinim" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductManagerImplTest" />
+      <option name="METHOD_NAME" value="testAddOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductManagerImplTest.ordersByUserTest" />
+        <item itemvalue="JUnit.ProductManagerImplTest.productsSortByNumSales" />
+        <item itemvalue="JUnit.ProductManagerImplTest.productsSortByPrice" />
+        <item itemvalue="JUnit.ProductManagerImplTest.processOrderTest" />
+        <item itemvalue="JUnit.ProductManagerImplTest.testAddOrder" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

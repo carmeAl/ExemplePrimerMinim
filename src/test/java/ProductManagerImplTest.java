@@ -16,9 +16,9 @@ public class ProductManagerImplTest {
     @Before
     public void setUp() {
         pm = new ProductManagerImpl();
-        pm.addUser("1111111", "Juan", "lopez");
-        pm.addUser("2222222",  "David", "Rincon");
-        pm.addUser("3333333",  "Juan", "Hernández");
+        pm.addUser("1111111", "Juan", "Lopez");
+        pm.addUser("2222222", "David", "Rincon");
+        pm.addUser("3333333", "Juan", "Hernández");
 
         pm.addProduct("B001", "Coca cola", 2);
         pm.addProduct("C002", "Café amb gel", 1.5);
@@ -32,6 +32,7 @@ public class ProductManagerImplTest {
     public void tearDown() {
         this.pm = null;
     }
+
 
     private void prepareOrders() {
         Order o1 = new Order("1111111");
