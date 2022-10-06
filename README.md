@@ -22,6 +22,7 @@ La EETAC está interesada en construir un juego que presente el mapa del campus 
 1. Implementar un servicio REST que permita realizar las operaciones especificadas en la primera parte del ejercicio.
 
 NOTA: El servicio debe utilizar el componente construido en el punto anterior (ProductManager) 
+
 2. Crear una colección postman para realizar el testing del servicio REST 
 ### PARTE III: 1,5 punto 
 1. Indicad en un fichero de texto parteIII.txt qué tablas y relaciones se necesitarían para implementar todas estas funcionalidades. 
