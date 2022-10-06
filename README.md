@@ -8,8 +8,8 @@ La EETAC está interesada en construir un juego que presente el mapa del campus 
 - Listado de productos ordenado (descendentemente) por número de ventas 
 ## SE PIDE: 
 ### PARTE I: 4  puntos 
-1.- Especificación del componente que implementará las operaciones descritas anteriormente: (ProductManager.java , interfaz Java) 
-2.- Implementación de una Fachada (patrón de diseño) que implemente el interfaz definido previamente (ProductManagerImpl.java, clase Java).  
+* Especificación del componente que implementará las operaciones descritas anteriormente: (ProductManager.java , interfaz Java) 
+* Implementación de una Fachada (patrón de diseño) que implemente el interfaz definido previamente (ProductManagerImpl.java, clase Java).  
 2.1 Elección de las estructuras de datos 
 2.2 La fachada deberá implementarse como un Singleton. 
 2.3 Todos los métodos deberán tener una TRAZA (a nivel de INFO) de LOG4J que muestre el valor de los parámetros al inicio de los métodos y al final. También debe contemplarse trazas de otros niveles (ERROR o FATAL) 
