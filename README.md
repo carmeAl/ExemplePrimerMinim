@@ -19,7 +19,8 @@ La EETAC está interesada en construir un juego que presente el mapa del campus 
    - método de test para realizar un pedido 
    - método de test para servir un pedido 
 ### PARTE II: 4,5 puntos 
-1. Implementar un servicio REST que permita realizar las operaciones especificadas en la primera parte del ejercicio 
+1. Implementar un servicio REST que permita realizar las operaciones especificadas en la primera parte del ejercicio.
+
 NOTA: El servicio debe utilizar el componente construido en el punto anterior (ProductManager) 
 2. Crear una colección postman para realizar el testing del servicio REST 
 ### PARTE III: 1,5 punto 
